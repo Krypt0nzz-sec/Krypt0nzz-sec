@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Krypt0nzz-sec/Krypt0nzz-sec/output/snake.svg" alt="Snake animation" />
+<h3 align="left">𝐎𝐧𝐝𝐞 𝐯𝐨𝐜ê 𝐩𝐨𝐝𝐞 𝐟𝐚𝐥𝐚𝐫 𝐜𝐨𝐦 𝐊𝐫𝐲𝐩𝐭𝟎𝐧𝐳𝐳</h3>
 
 ###
 
@@ -44,7 +44,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 </div>
 
 ###
